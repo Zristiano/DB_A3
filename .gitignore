@@ -1,0 +1,11 @@
+/cmake-build-debug/
+/CMakeLists.txt
+/makefile
+/catFile
+/.idea/
+/supplier.bin
+/supplier.tbl
+/supplierBig.tbl
+/supplierBigSorted.tbl
+/supplierSorted.bin
+/Build/supplierSorted.txt
