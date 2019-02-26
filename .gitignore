@@ -8,4 +8,5 @@
 /supplierBig.tbl
 /supplierBigSorted.tbl
 /supplierSorted.bin
-/Build/supplierSorted.txt
+supplierSorted.txt
+/Build/.sconsign.dblite
