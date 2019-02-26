@@ -146,7 +146,7 @@ int main () {
 
 		// put the supplier table into the catalog
 		outTable->putInCatalog (myCatalog);
-		outputTable.writeIntoTextFile("supplierSorted.txt");
+//		outputTable.writeIntoTextFile("supplierSorted.txt");
 	}
 
 	{
@@ -181,7 +181,7 @@ int main () {
 			myIterOne->getCurrent (rec1);
 			myIterTwo->getCurrent (rec2);
 
-//			cout << rec1 << "\n";
+			cout << rec1 << "\n";
 
 			if (!myComp ()) {
 			    myIterOne->getCurrent (rec2);
